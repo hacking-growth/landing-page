@@ -1,0 +1,134 @@
+{
+  "Counter": {
+    "description": "Auto imported from components/Counter.vue"
+  },
+  "LazyCounter": {
+    "description": "Auto imported from components/Counter.vue"
+  },
+  "Media": {
+    "description": "Auto imported from components/Media.vue"
+  },
+  "LazyMedia": {
+    "description": "Auto imported from components/Media.vue"
+  },
+  "Toggle": {
+    "description": "Auto imported from components/Toggle.vue"
+  },
+  "LazyToggle": {
+    "description": "Auto imported from components/Toggle.vue"
+  },
+  "Clientes": {
+    "description": "Auto imported from components/Home/Clientes.vue"
+  },
+  "LazyClientes": {
+    "description": "Auto imported from components/Home/Clientes.vue"
+  },
+  "Contact": {
+    "description": "Auto imported from components/Home/Contact.vue"
+  },
+  "LazyContact": {
+    "description": "Auto imported from components/Home/Contact.vue"
+  },
+  "Counters": {
+    "description": "Auto imported from components/Home/Counters.vue"
+  },
+  "LazyCounters": {
+    "description": "Auto imported from components/Home/Counters.vue"
+  },
+  "Desktop": {
+    "description": "Auto imported from components/Home/Desktop.vue"
+  },
+  "LazyDesktop": {
+    "description": "Auto imported from components/Home/Desktop.vue"
+  },
+  "Faq": {
+    "description": "Auto imported from components/Home/Faq.vue"
+  },
+  "LazyFaq": {
+    "description": "Auto imported from components/Home/Faq.vue"
+  },
+  "Footer": {
+    "description": "Auto imported from components/Home/Footer.vue"
+  },
+  "LazyFooter": {
+    "description": "Auto imported from components/Home/Footer.vue"
+  },
+  "Heading": {
+    "description": "Auto imported from components/Home/Heading.vue"
+  },
+  "LazyHeading": {
+    "description": "Auto imported from components/Home/Heading.vue"
+  },
+  "Parceiros": {
+    "description": "Auto imported from components/Home/Parceiros.vue"
+  },
+  "LazyParceiros": {
+    "description": "Auto imported from components/Home/Parceiros.vue"
+  },
+  "Products": {
+    "description": "Auto imported from components/Home/Products.vue"
+  },
+  "LazyProducts": {
+    "description": "Auto imported from components/Home/Products.vue"
+  },
+  "Row": {
+    "description": "Auto imported from components/Home/Row.vue"
+  },
+  "LazyRow": {
+    "description": "Auto imported from components/Home/Row.vue"
+  },
+  "Testimonial": {
+    "description": "Auto imported from components/Home/Testimonial.vue"
+  },
+  "LazyTestimonial": {
+    "description": "Auto imported from components/Home/Testimonial.vue"
+  },
+  "Tripwire": {
+    "description": "Auto imported from components/Home/Tripwire.vue"
+  },
+  "LazyTripwire": {
+    "description": "Auto imported from components/Home/Tripwire.vue"
+  },
+  "Close": {
+    "description": "Auto imported from components/Navbar/Close.vue"
+  },
+  "LazyClose": {
+    "description": "Auto imported from components/Navbar/Close.vue"
+  },
+  "Hamburguer": {
+    "description": "Auto imported from components/Navbar/Hamburguer.vue"
+  },
+  "LazyHamburguer": {
+    "description": "Auto imported from components/Navbar/Hamburguer.vue"
+  },
+  "Logo": {
+    "description": "Auto imported from components/Navbar/Logo.vue"
+  },
+  "LazyLogo": {
+    "description": "Auto imported from components/Navbar/Logo.vue"
+  },
+  "Navbar": {
+    "description": "Auto imported from components/Navbar/Navbar.vue"
+  },
+  "LazyNavbar": {
+    "description": "Auto imported from components/Navbar/Navbar.vue"
+  },
+  "Navdesktop": {
+    "description": "Auto imported from components/Navbar/Navdesktop.vue"
+  },
+  "LazyNavdesktop": {
+    "description": "Auto imported from components/Navbar/Navdesktop.vue"
+  },
+  "Navmenu": {
+    "description": "Auto imported from components/Navbar/Navmenu.vue"
+  },
+  "LazyNavmenu": {
+    "description": "Auto imported from components/Navbar/Navmenu.vue"
+  },
+  "Navmobile": {
+    "description": "Auto imported from components/Navbar/Navmobile.vue"
+  },
+  "LazyNavmobile": {
+    "description": "Auto imported from components/Navbar/Navmobile.vue"
+  }
+}

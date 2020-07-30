@@ -1,12 +1,19 @@
 {
-  "name": "my-app",
+  "name": "hacking-growth",
+  "version": "1.0.0",
+  "private": true,
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",
-    "generate": "nuxt generate",
-    "start": "nuxt start"
+    "start": "nuxt start",
+    "export": "nuxt export",
+    "serve": "nuxt serve",
+    "generate": "npm run build && npm run export"
   },
   "dependencies": {
-    "nuxt": "^2.14.0"
-  }
+    "@nuxt/content": "^1.4.1",
+    "@nuxtjs/axios": "^5.12.0",
+    "nuxt": "^2.13.0"
+  },
+  "devDependencies": {}
 }
