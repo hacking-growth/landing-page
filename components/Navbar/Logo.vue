@@ -1,9 +1,9 @@
 <style scoped>
 	img {
-		height: 100%;
+		height: 70%;
 	}
 </style>
 
 <template>
-	<img src="hg.png">
+	<img src="logo completa.svg">
 </template>
