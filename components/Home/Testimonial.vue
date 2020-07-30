@@ -13,11 +13,12 @@ h3, h4{
 
 .row {
 	align-items: stretch;
-	justify-content: center;
+	justify-content: space-between;
 }
 
 .item {
 	border: 2px solid var(--dark);
+	padding: 0.5rem;
 }
 
 @media (min-width: 700px){
@@ -34,8 +35,7 @@ h3, h4{
 	}
 
 	.row > div {
-		margin-left: 2rem;
-		width: 25%;
+		width: 20%;
 		text-align: center;
 	}
 }
