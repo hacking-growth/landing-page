@@ -5,7 +5,7 @@ header {
 	background-size: 1000px;
 	background-position: 60%;
 	background-color: var(--dark);
-	height: 70vh;
+	height: 100vh;
 	display: flex;
 	align-items: center;
 }
@@ -44,12 +44,18 @@ strong {
 		background-size: 120%;
 		background-position: 30%;
 		text-align: left;
+		height: 70vh;
 	}
 
 	span {
 		text-align: left;
 		margin: 3rem 0;
 	}
+
+	.btn {
+	margin: 2rem 0;	
+	}
+
 }
 
 @media (min-width: 1000px){
@@ -64,11 +70,10 @@ strong {
 	a {
 		max-width: 20rem;
 	}
+
+
 }
 
-.btn {
-	margin: 2rem 0;	
-}
 
 </style>
 
