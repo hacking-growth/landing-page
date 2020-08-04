@@ -55,7 +55,7 @@ a {
 				</div>
 			</div>
 			<div>
-				<a href="">Saiba mais</a>				
+				<a href=""  class="btn">Saiba mais</a>				
 			</div>
 		</div>
 		<div>
@@ -72,7 +72,7 @@ a {
 				</div>
 			</div>
 			<div>
-				<a href="">Saiba mais</a>				
+				<a href=""  class="btn">Saiba mais</a>				
 			</div>
 		</div>
 		<div>
@@ -87,7 +87,7 @@ a {
 				</div>
 			</div>
 			<div>
-				<a href="">Saiba mais</a>				
+				<a href=""  class="btn">Saiba mais</a>				
 			</div>
 		</div>
 	</section>

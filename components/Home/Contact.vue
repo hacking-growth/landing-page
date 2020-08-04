@@ -12,7 +12,7 @@ form {
 	text-align: left;
 }
 
-input, textarea {
+input, textarea, select {
 	width: 100%;
 	border: none;
 	background-color: white;
@@ -50,7 +50,7 @@ label {
 	border: 10px solid white;
 }
 
-textarea:focus, input:focus{
+textarea:focus, input:focus, select:focus{
     outline: none;
 }
 
@@ -74,7 +74,12 @@ textarea:focus, input:focus{
 			</div>
 			<label>QUANTO INVESTE EM MARKETING ATUALMENTE</label>
 			<div class="colorbox">
-				<input>
+				<select name="" id="">
+					<option value="">R$ 3.000,00 a R$ 5.000,00</option>
+					<option value="">R$ 5.000,00 a R$ 10.000,00</option>
+					<option value="">R$ 10.000,00 a R$ 25.000,00</option>
+					<option value="">Mais de R$ 25.000,00</option>
+				</select>
 			</div>	
 			<label>MENSAGEM</label>
 			<div class="colorbox">

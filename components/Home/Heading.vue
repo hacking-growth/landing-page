@@ -1,12 +1,17 @@
 <style scoped>
 header {
-	padding-top: 3rem;
 	color: white;
 	background: url('../../static/BACKGROUND-WEBP.jpg');
 	background-size: 1000px;
 	background-position: 60%;
 	background-color: var(--dark);
-	height: 100vh;
+	height: 70vh;
+	display: flex;
+	align-items: center;
+}
+
+h1 {
+  font-size: 2rem;
 }
 
 h2 {
@@ -41,11 +46,6 @@ strong {
 		text-align: left;
 	}
 
-
-	.row {
-		justify-content: space-between;
-	}
-
 	span {
 		text-align: left;
 		margin: 3rem 0;
@@ -55,16 +55,19 @@ strong {
 @media (min-width: 1000px){
 
 	header {
-		background-position: 50%;
+		background-position: -10%;
 		padding-top: 10rem;
 		background-size: 100%;
-		background-repeat: no-repeat;
 		background-color: var(--dark);
 	}
 
 	a {
 		max-width: 20rem;
 	}
+}
+
+.btn {
+	margin: 2rem 0;	
 }
 
 </style>
@@ -76,14 +79,8 @@ strong {
 				Otimize seu marketing digital 
 				<span>e aumente a taxa de conversão do seu negócio</span>
 			</h1>
-			<div class="row">
-				<div>
-					<h2>Conheça nossas soluções <strong>de marketing</strong> <br> baseadas em <strong>inteligência, otimização e dados.</strong></h2>
-				</div>
-				<div>
-					<a>Fale agora mesmo com um especialista</a>
-				</div>
-			</div>
+			<h2>Conheça nossas soluções <strong>de marketing</strong> <br> baseadas em <strong>inteligência, otimização e dados.</strong></h2>
+			<a class="btn">Fale agora mesmo com um especialista</a>
 		</div>
 	</header>
 </template>

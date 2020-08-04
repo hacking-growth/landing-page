@@ -8,6 +8,7 @@
 		position: fixed;
 		background-color: var(--darkt);
 		z-index: 1000;
+		padding: 0;
 	}
 
 	@media(min-width: 1000px){
@@ -16,6 +17,7 @@
 			font-size: 0.8rem;
 			background-color: transparent;
 			position: absolute;
+			padding: 0;
 		}
 
 		.sticky {
