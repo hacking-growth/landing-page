@@ -24,7 +24,9 @@ li {
 
 <template>
 	<ul>
-		<li>Home</li>
+		<li>
+			<a href="#">Home</a>
+		</li>
 		<li>Nossos Serviços</li>
 		<li>Cases de Sucesso</li>
 		<li>Quem Somos</li>

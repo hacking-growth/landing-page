@@ -50,6 +50,10 @@ label {
 	border: 10px solid white;
 }
 
+textarea:focus, input:focus{
+    outline: none;
+}
+
 </style>
 
 <template>

@@ -6,6 +6,7 @@ header {
 	background-size: 850px;
 	background-position: 60%;
 	background-color: var(--dark);
+	height: 100vh;
 }
 
 h2 {
@@ -56,6 +57,9 @@ strong {
 	header {
 		background-position: 50%;
 		padding-top: 10rem;
+		background-size: 100%;
+		background-repeat: no-repeat;
+		background-color: var(--dark);
 	}
 
 	a {
