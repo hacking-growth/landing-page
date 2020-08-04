@@ -11,13 +11,18 @@ h3, h4{
 	font-weight: normal;
 }
 
+h3 {
+	border-bottom: 2px solid var(--dark);
+	padding-bottom: 1rem ;
+	height: 2.5rem;
+}
+
 .row {
 	align-items: stretch;
 	justify-content: space-between;
 }
 
 .item {
-	border: 2px solid var(--dark);
 	padding: 0.5rem;
 }
 
